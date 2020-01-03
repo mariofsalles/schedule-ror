@@ -88,5 +88,3 @@ Utilizar o comando na pasta que estão os arquivos do docker:
     - docker-compose run web rails new . --force --database=postgres
     - docker-compose up --build
     - pronto a aplicação já está iniciada.
-
-Nota importante: a
