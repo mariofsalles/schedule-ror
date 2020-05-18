@@ -42,6 +42,7 @@ Notar que a versão do Ruby é esepcificada neste momento como a 2.4.x
 
 3 - Criação do docker-compose: 
 Criar um arquivo denominado *docker-compose.yml* com conteudo a seguir, numa pasta onde será colocado o projeto RoR (atenção a identação neste tipo de arquivo):
+
     version: '3'
     services:
       adminer:
